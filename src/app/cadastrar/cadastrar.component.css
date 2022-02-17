@@ -1,0 +1,12 @@
+#img-bg{
+    background-image: url('../../assets/img/teclado-do-notebook-digitando-sozinho-750x410.jpg');
+    
+    min-height: 695px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .btn {
+        margin: 5%;
+    }
